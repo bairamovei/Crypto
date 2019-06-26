@@ -82,7 +82,7 @@ public class CodesPageStepDefinitions {
 
     @Then("Assert value same as expected")
     public void assert_value_same_as_expected()  {
-        pages.codes().value.
+
 
     }
 }
